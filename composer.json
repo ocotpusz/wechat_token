@@ -1,0 +1,20 @@
+{
+    "name": "Octopusz/wx_token",
+    "description": "颁发微信token\"",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "octopus",
+            "email": "octopusz@yeah.net"
+        }
+    ],
+    "require": {
+        "php":">5.6"
+    },
+
+    "autoload": {
+        "psr-4": {
+            "Octopusz\\WxToken\\": "src/"
+        }
+    }
+}
